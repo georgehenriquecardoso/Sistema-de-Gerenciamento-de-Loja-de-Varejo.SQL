@@ -56,4 +56,25 @@ Esta consulta identifica os clientes com o maior número de pedidos, ordenados p
 
 Este esquema de banco de dados fornece uma base sólida para um sistema de gerenciamento de loja de varejo, com funcionalidades avançadas de vendas, estoque, clientes e fornecedores.
 
+##
+
+## **Aplicação do Código SQL**
+
+### **1. Criação do Banco de Dados**
+O primeiro passo é criar um banco de dados em seu sistema de gerenciamento de banco de dados (por exemplo, MySQL, PostgreSQL, SQL Server). Você pode fazer isso executando o script SQL fornecido em seu ambiente de gerenciamento de banco de dados preferido.
+
+### **2. Execução do Script SQL**
+Copie e cole o código SQL fornecido em um editor de consultas SQL no seu sistema de gerenciamento de banco de dados e execute-o. Isso criará todas as tabelas, procedimentos armazenados, gatilhos e consultas necessários para o funcionamento do Sistema de Gerenciamento de Loja de Varejo.
+
+### **3. Inserção de Dados**
+Após a criação do esquema do banco de dados, você pode inserir os dados necessários, como clientes, produtos, categorias, fornecedores, etc. Isso pode ser feito executando instruções INSERT em cada uma das tabelas.
+
+### **4. Utilização dos Recursos**
+Com o banco de dados configurado e os dados inseridos, você pode começar a utilizar os recursos do Sistema de Gerenciamento de Loja de Varejo. Isso inclui o acompanhamento do estoque, processamento de vendas, registro de clientes e interação com fornecedores.
+
+### **5. Manutenção e Melhorias**
+À medida que o sistema é utilizado, pode ser necessário realizar manutenção periódica, como atualizações de dados, otimizações de consultas ou implementação de novas funcionalidades. Certifique-se de manter o código SQL atualizado e documentado para facilitar a manutenção futura.
+
+## **Conclusão**
+O Sistema de Gerenciamento de Loja de Varejo é uma ferramenta poderosa para ajudar empresas do ramo varejista a otimizar suas operações e oferecer uma melhor experiência para seus clientes. Ao seguir as etapas acima para aplicar o código SQL fornecido, você estará pronto para começar a utilizar e beneficiar-se deste sistema em sua loja.
 
