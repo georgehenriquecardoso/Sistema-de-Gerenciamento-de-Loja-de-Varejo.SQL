@@ -1,0 +1,1 @@
+# Sistema-de-Gerenciamento-de-Loja-de-Varejo.SQL
